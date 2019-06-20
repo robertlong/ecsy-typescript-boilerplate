@@ -1172,7 +1172,7 @@ duplexify@^3.4.2, duplexify@^3.6.0:
 
 "ecsy@https://github.com/fernandojsg/ecsy.git":
   version "0.1.0"
-  resolved "https://github.com/fernandojsg/ecsy.git#ee8860c326061f42290e45b3cfb547c5c629fc1d"
+  resolved "https://github.com/fernandojsg/ecsy.git#83fde95c2880af63af93e050a99ec3669266ffaf"
 
 ee-first@1.1.1:
   version "1.1.1"
