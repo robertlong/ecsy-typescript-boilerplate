@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "target": "es2017",
+    "moduleResolution": "node",
+    "noImplicitAny": true,
+    "strict": true,
+    "sourceMap": true
+  }
+}

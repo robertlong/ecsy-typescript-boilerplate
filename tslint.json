@@ -1,0 +1,19 @@
+{
+  "extends": [
+    "tslint:latest",
+    "tslint-config-prettier"
+  ],
+  "rules": {
+    "member-ordering": false,
+    "object-literal-sort-keys": false,
+    "ordered-imports": false,
+    "interface-name": false,
+    "no-console": [
+      true,
+      "log"
+    ],
+    "prefer-for-of": false,
+    "forin": false,
+    "max-classes-per-file": false
+  }
+}
