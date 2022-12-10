@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "ecsy": "https://github.com/fernandojsg/ecsy.git",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "@types/express": "^4.16.1",
